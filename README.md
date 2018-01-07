@@ -1,0 +1,2 @@
+# cgminer
+cgminer black edition
